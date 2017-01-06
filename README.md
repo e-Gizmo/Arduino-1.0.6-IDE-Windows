@@ -1,4 +1,5 @@
 # Arduino-1.0.6-IDE-Windows
+<<<<<<< HEAD
 ## Previous IDE Release
 ###### gizDuino boards file Included (No need to patch) Just download it!
 - Join Github and follow for more updates...
@@ -24,3 +25,6 @@ Important notes:
 
 
 - For Technical Support, Kindly email us at <egizmo.technical@gmail.com>
+=======
+Previous IDE Release
+>>>>>>> parent of 832db02... Update README.md
