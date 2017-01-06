@@ -1,0 +1,1 @@
+this library is for gizduino + vesions only

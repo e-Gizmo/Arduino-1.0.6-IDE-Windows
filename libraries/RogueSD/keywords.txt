@@ -1,0 +1,62 @@
+#######################################
+# Syntax Coloring Map for RogueSD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RogueSD                        KEYWORD1
+fileinfo                       KEYWORD1
+moduletype                     KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+lastErrorCode                  KEYWORD2
+
+begin                          KEYWORD2
+changeSetting                  KEYWORD2
+close                          KEYWORD2
+closeAll                       KEYWORD2
+entryToFilename                KEYWORD2
+exists                         KEYWORD2
+fileCount                      KEYWORD2
+getFileInfo                    KEYWORD2
+getFreeHandle                  KEYWORD2
+getModuleType                  KEYWORD2
+getSetting                     KEYWORD2
+open                           KEYWORD2
+open_P                         KEYWORD2
+openDir                        KEYWORD2
+read                           KEYWORD2
+readByte                       KEYWORD2
+readDir                        KEYWORD2
+readln                         KEYWORD2
+remove                         KEYWORD2
+rename                         KEYWORD2
+rmDir                          KEYWORD2
+seek                           KEYWORD2
+seekToEnd                      KEYWORD2
+size                           KEYWORD2
+status                         KEYWORD2
+sync                           KEYWORD2
+version                        KEYWORD2
+write                          KEYWORD2
+writeByte                      KEYWORD2
+writeln                        KEYWORD2
+writelnFinish                  KEYWORD2
+writelnStart                   KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+OPEN_READ                      LITERAL1
+OPEN_WRITE                     LITERAL1
+OPEN_RW                        LITERAL1
+OPEN_APPEND                    LITERAL1
+TYPE_FILE                      LITERAL1
+TYPE_FOLDER                    LITERAL1
+
